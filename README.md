@@ -2,9 +2,6 @@
 NeuroNudge - a multimodal emotion-aware companion for e-learning that detects learner affect (face, speech, and mouse behaviour) and adapts content in real time.
 # Emotion Recognition in E-Learning Systems Using Machine Learning and Deep Learning
 
-
-# Emotion Recognition in E-Learning Systems Using Machine Learning and Deep Learning
-
 An intelligent **emotion-aware e-learning system** that detects learners' emotions using **facial expressions, voice tone, and behaviour patterns**. The system adapts learning content in real time to improve engagement and performance.
 
 ## 🚀 Features
